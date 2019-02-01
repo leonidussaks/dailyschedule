@@ -22,7 +22,6 @@ Instructions will differ for every platform, but install it on `Xubuntu`
 2. cd ~/
 3. git clone https://github.com/leonid0723/dailyschedule
 4. cd dailyschedule
-5. Open <b>daily.sh</b> and change <b>USERNAME</b> to <b>your username</b>
 6. chmod +x daily.sh
 7. install in autostart dailyschedule. how to install script autostart? google.com
 8. <b>./daily.sh</b><br>
