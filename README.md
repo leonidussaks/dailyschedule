@@ -19,7 +19,7 @@ Instructions will differ for every platform, but install it on `Xubuntu`
 1. Install 'at'<br>
 [on CentOS based systems]  <b>#</b> yum install at<br>
 [on Debian and derivatives] <b>$</b> sudo apt-get install at
-2. Download and move the project to home directory /home
+2. Download and move the project to <b>/home/USERNAME</b>. (Home directory)
 3. Open dailyschedule directory
 4. Open <b>daily.sh</b> and change <b>USERNAME</b> to <b>your username</b>
 5. chmod +x daily.sh
