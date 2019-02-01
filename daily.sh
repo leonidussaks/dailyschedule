@@ -5,8 +5,8 @@
 # This project no license. Just... For fun ;)
 ###############################
 # this settings file project.
-# 
-# rename USERNAME for your name
+#                    text                                      image              time
+# echo "notify-send 'test' -i /home/$USER/dailyschedule/images/settings.png" | at now
 ###############################
 USER="leonid"
 atrm $(atq|cut -f1)
