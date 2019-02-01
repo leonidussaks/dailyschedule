@@ -19,12 +19,13 @@ Instructions will differ for every platform, but install it on `Xubuntu`
 1. Install 'at'<br>
 [on CentOS based systems]  <b>#</b> yum install at<br>
 [on Debian and derivatives] <b>$</b> sudo apt-get install at
-2. Download and move the project to <b>/home/USERNAME</b>. (Home directory)
-3. Open dailyschedule directory
-4. Open <b>daily.sh</b> and change <b>USERNAME</b> to <b>your username</b>
-5. chmod +x daily.sh
-6. install in autoload dailyschedule. how to install autoload? google.com
-7. <b>./daily.sh</b><br>
+2. cd ~/
+3. git clone https://github.com/leonid0723/dailyschedule
+4. cd dailyschedule
+5. Open <b>daily.sh</b> and change <b>USERNAME</b> to <b>your username</b>
+6. chmod +x daily.sh
+7. install in autoload dailyschedule. how to install script autoload? google.com
+8. <b>./daily.sh</b><br>
  Okay! dailyschedule install and work!
 <br>
 <br>
