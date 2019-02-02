@@ -30,7 +30,7 @@ Instructions will differ for every platform, but install it on `Xubuntu`
 <br>
 
 ## In future
-1. random image 
+1. ~~random image~~ 
 2. autoinstallation
 3. very very very very moreeee images :D
 
