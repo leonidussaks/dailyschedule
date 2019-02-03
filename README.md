@@ -1,7 +1,7 @@
 ## DailySchedule
 
-- Set your daily schedule
-- Flexible setting
+- Set your daily schedule and send yourself a notice that it’s time to sleep, eat, etc.
+- Flexible settings
 <br>
 <br>
 
